@@ -1,0 +1,18 @@
+.aboutme{
+font-weight: 900 ;
+
+}
+.ml{
+    width: 50px;
+    height: 4px;
+    background-color: black;
+}
+.mr{width: 50px;
+    height: 4px;
+    background-color: black;}
+.mi{
+    width: 50px;
+    height: 10px;
+    background-color: orangered;
+    border-radius: 20px;
+}
