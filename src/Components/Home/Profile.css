@@ -14,6 +14,7 @@
    align-items: center;
    justify-content: center;
    color: aliceblue; 
+   padding: 80px 20px;
 }
 .profile-details-name{
     font-size: 24px;
