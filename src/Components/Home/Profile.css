@@ -28,7 +28,7 @@
 .profile-details-role h1{
     text-align: center;
     font-size: 40px;
-    font-family: cursive;
+    font-family:"Georgia";
 }
 .primary-text{
     color: (--white);
