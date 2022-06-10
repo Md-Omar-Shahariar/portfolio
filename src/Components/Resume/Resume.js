@@ -9,6 +9,9 @@ const Resume = () => {
         <div className="mi"></div>
         <div className="mr"></div>
       </div>
+      <div className="py-5">
+        <h1 className="aboutme text-center ">Will Be Updated Soon...</h1>
+      </div>
     </div>
   );
 };
