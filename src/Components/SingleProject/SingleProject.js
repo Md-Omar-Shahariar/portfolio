@@ -28,7 +28,12 @@ const SingleProject = () => {
               <div className="mr"></div>
             </div>
             <div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   Login
                 </h3>
@@ -38,7 +43,12 @@ const SingleProject = () => {
                   alt=""
                 />
               </div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   Reviews
                 </h3>
@@ -48,7 +58,12 @@ const SingleProject = () => {
                   alt=""
                 />
               </div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   Manage All Orders
                 </h3>
@@ -86,7 +101,12 @@ const SingleProject = () => {
               <div className="mr"></div>
             </div>
             <div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   Inventory
                 </h3>
@@ -96,7 +116,12 @@ const SingleProject = () => {
                   alt=""
                 />
               </div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   Login
                 </h3>
@@ -106,7 +131,12 @@ const SingleProject = () => {
                   alt=""
                 />
               </div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   My Items
                 </h3>
@@ -142,7 +172,12 @@ const SingleProject = () => {
               <div className="mr"></div>
             </div>
             <div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   My Services
                 </h3>
@@ -152,7 +187,12 @@ const SingleProject = () => {
                   alt=""
                 />
               </div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   Service Info
                 </h3>
@@ -162,7 +202,12 @@ const SingleProject = () => {
                   alt=""
                 />
               </div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   Gallery
                 </h3>
@@ -198,7 +243,12 @@ const SingleProject = () => {
               <div className="mr"></div>
             </div>
             <div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   DashBoard
                 </h3>
@@ -208,7 +258,12 @@ const SingleProject = () => {
                   alt=""
                 />
               </div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   Review
                 </h3>
@@ -218,7 +273,12 @@ const SingleProject = () => {
                   alt=""
                 />
               </div>
-              <div className="border shadow mb-3 p-3 rounded">
+              <div
+                className="border shadow mb-3 p-3 rounded"
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="500"
+              >
                 <h3 className="text-center aboutme border-bottom py-3 ">
                   About
                 </h3>
