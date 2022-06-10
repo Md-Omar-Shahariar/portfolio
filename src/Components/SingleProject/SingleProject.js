@@ -19,6 +19,64 @@ const SingleProject = () => {
   return (
     <div className="min-vh-100 container">
       <div className="py-5">
+        {id == 1 && (
+          <>
+            <h1 className="aboutme text-center py-3">SEA Tech</h1>
+            <div className="d-flex justify-content-center align-items-center pb-5">
+              <div className="ml"></div>
+              <div className="mi"></div>
+              <div className="mr"></div>
+            </div>
+            <div>
+              <div className="border shadow mb-3 p-3 rounded">
+                <h3 className="text-center aboutme border-bottom py-3 ">
+                  Login
+                </h3>
+                <img
+                  style={{ width: "100%", maxHeight: "500px" }}
+                  src={project1a}
+                  alt=""
+                />
+              </div>
+              <div className="border shadow mb-3 p-3 rounded">
+                <h3 className="text-center aboutme border-bottom py-3 ">
+                  Reviews
+                </h3>
+                <img
+                  style={{ width: "100%", maxHeight: "500px" }}
+                  src={project1b}
+                  alt=""
+                />
+              </div>
+              <div className="border shadow mb-3 p-3 rounded">
+                <h3 className="text-center aboutme border-bottom py-3 ">
+                  Manage All Orders
+                </h3>
+                <img
+                  style={{ width: "100%", maxHeight: "500px" }}
+                  src={project1c}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="py-3">
+              <h3 className="aboutme pb-2">Description:</h3>
+              <h5>
+                MERN Stack Website for ManuFacturer Company with payment gateway
+              </h5>
+            </div>
+            <div className="pb-5">
+              <h3 className="aboutme">Features:</h3>
+              <ul className="aboutme py-3">
+                <li>You Can Pay With Your Card</li>
+                <li>There Are Two Type Of Role For User</li>
+                <li>Admin Can manage Orders And Add Product or delete</li>
+                <li>You Can Toggle Mode dark and Light</li>
+                <li>For User Access JWT Is used</li>
+              </ul>
+            </div>
+          </>
+        )}
         {id == 2 && (
           <>
             <h1 className="aboutme text-center py-3">Royal CARS</h1>
@@ -75,9 +133,9 @@ const SingleProject = () => {
             </div>
           </>
         )}
-        {id == 1 && (
+        {id == 3 && (
           <>
-            <h1 className="aboutme text-center py-3">SEA Tech</h1>
+            <h1 className="aboutme text-center py-3">Travel Baba</h1>
             <div className="d-flex justify-content-center align-items-center pb-5">
               <div className="ml"></div>
               <div className="mi"></div>
@@ -86,49 +144,103 @@ const SingleProject = () => {
             <div>
               <div className="border shadow mb-3 p-3 rounded">
                 <h3 className="text-center aboutme border-bottom py-3 ">
-                  Login
+                  My Services
                 </h3>
                 <img
                   style={{ width: "100%", maxHeight: "500px" }}
-                  src={project1a}
+                  src={project3a}
                   alt=""
                 />
               </div>
               <div className="border shadow mb-3 p-3 rounded">
                 <h3 className="text-center aboutme border-bottom py-3 ">
-                  Reviews
+                  Service Info
                 </h3>
                 <img
                   style={{ width: "100%", maxHeight: "500px" }}
-                  src={project1b}
+                  src={project3b}
                   alt=""
                 />
               </div>
               <div className="border shadow mb-3 p-3 rounded">
                 <h3 className="text-center aboutme border-bottom py-3 ">
-                  Manage All Orders
+                  Gallery
                 </h3>
                 <img
                   style={{ width: "100%", maxHeight: "500px" }}
-                  src={project1c}
+                  src={project3c}
                   alt=""
                 />
               </div>
             </div>
             <div className="py-3">
               <h3 className="aboutme pb-2">Description:</h3>
-              <h5>
-                MERN Stack Website for ManuFacturer Company with payment gateway
-              </h5>
+              <h5>React Website for Single Service Provider</h5>
             </div>
             <div className="pb-5">
               <h3 className="aboutme">Features:</h3>
               <ul className="aboutme py-3">
-                <li>You Can Pay With Your Card</li>
-                <li>There Are Two Type Of Role For User</li>
-                <li>Admin Can manage Orders And Add Product or delete</li>
-                <li>You Can Toggle Mode dark and Light</li>
-                <li>For User Access JWT Is used</li>
+                <li>User can log in with email / google/ github/ facebook</li>
+                <li>If user want to hire then first has to login</li>
+                <li>After login redirect to previous page</li>
+                <li>Reset password module</li>
+                <li>Toast to show reset password notification</li>
+              </ul>
+            </div>
+          </>
+        )}
+        {id == 4 && (
+          <>
+            <h1 className="aboutme text-center py-3">Baby Care</h1>
+            <div className="d-flex justify-content-center align-items-center pb-5">
+              <div className="ml"></div>
+              <div className="mi"></div>
+              <div className="mr"></div>
+            </div>
+            <div>
+              <div className="border shadow mb-3 p-3 rounded">
+                <h3 className="text-center aboutme border-bottom py-3 ">
+                  DashBoard
+                </h3>
+                <img
+                  style={{ width: "100%", maxHeight: "500px" }}
+                  src={project4a}
+                  alt=""
+                />
+              </div>
+              <div className="border shadow mb-3 p-3 rounded">
+                <h3 className="text-center aboutme border-bottom py-3 ">
+                  Review
+                </h3>
+                <img
+                  style={{ width: "100%", maxHeight: "500px" }}
+                  src={project4b}
+                  alt=""
+                />
+              </div>
+              <div className="border shadow mb-3 p-3 rounded">
+                <h3 className="text-center aboutme border-bottom py-3 ">
+                  About
+                </h3>
+                <img
+                  style={{ width: "100%", maxHeight: "500px" }}
+                  src={project4c}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="py-3">
+              <h3 className="aboutme pb-2">Description:</h3>
+              <h5>React Website for Child Care product</h5>
+            </div>
+            <div className="pb-5">
+              <h3 className="aboutme">Features:</h3>
+              <ul className="aboutme py-3">
+                <li>User can log in with email / google/ github/ facebook</li>
+                <li>If user want to hire then first has to login</li>
+                <li>After login redirect to previous page</li>
+                <li>Reset password module</li>
+                <li>Toast to show reset password notification</li>
               </ul>
             </div>
           </>

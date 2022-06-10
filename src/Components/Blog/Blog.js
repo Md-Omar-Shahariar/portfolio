@@ -10,8 +10,8 @@ const Blog = () => {
         <div className="mi"></div>
         <div className="mr"></div>
       </div>
-      <div>
-        <h1 className="aboutme"></h1>
+      <div className="pt-5">
+        <h1 className="aboutme text-center">Coming Soon...</h1>
       </div>
     </div>
   );

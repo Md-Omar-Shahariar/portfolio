@@ -57,6 +57,7 @@
     height: 380px;
     width: 380px;
     margin: 0 0 0 100px;
+    
 }
 .profile-picture-background{
     height:92%;
@@ -67,6 +68,11 @@
     background-repeat: no-repeat;
     background-position: center;
 
+}
+.profile-picture-background:hover{
+    height: 100%;
+    width: 100%;
+    transition: 1s;
 }
 .cols{
     margin-bottom: 20px;
