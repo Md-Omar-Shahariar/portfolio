@@ -51,8 +51,8 @@ const Profile = () => {
                 ></Typical>
               </h1>
               <span className="profile-role-tagline">
-                Lorem ipsum dolor siasdhihasixa awhdiuiahxasd dasd adas das
-                dasdas da sdas{" "}
+                Knack of building applications with front and back end
+                operations{" "}
               </span>
             </span>
           </div>
