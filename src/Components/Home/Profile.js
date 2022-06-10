@@ -65,7 +65,12 @@ const Profile = () => {
               </span>
             </span>
           </div>
-          <div className="profile-options">
+          <div
+            className="profile-options"
+            data-aos="zoom-in"
+            data-aos-duration="1000"
+            data-aos-delay="800"
+          >
             <a href="#contactMe">
               <button className="btn primary-btn">Hire Me</button>
             </a>

@@ -39,16 +39,22 @@ const Project = () => {
                     <li>MongoDB</li>
                   </ul>
                 </p>
-                <a
-                  href="https://sea-tech-ccadc.web.app/"
-                  class="btn primary-btn"
-                  target="_blank"
+                <div
+                  data-aos="zoom-in"
+                  data-aos-duration="1000"
+                  data-aos-delay="800"
                 >
-                  Live Demo
-                </a>
-                <a href="/single/1" class="btn highlighted-btn">
-                  Details
-                </a>
+                  <a
+                    href="https://sea-tech-ccadc.web.app/"
+                    class="btn primary-btn"
+                    target="_blank"
+                  >
+                    Live Demo
+                  </a>
+                  <a href="/single/1" class="btn highlighted-btn">
+                    Details
+                  </a>
+                </div>
               </div>
             </div>
           </div>
@@ -75,16 +81,22 @@ const Project = () => {
                     <li>MongoDB</li>
                   </ul>
                 </p>
-                <a
-                  href="https://inventory-system-77d91.web.app/"
-                  class="btn primary-btn"
-                  target="_blank"
+                <div
+                  data-aos="zoom-in"
+                  data-aos-duration="1000"
+                  data-aos-delay="800"
                 >
-                  Live Demo
-                </a>
-                <a href="/single/2" class="btn highlighted-btn">
-                  Details
-                </a>
+                  <a
+                    href="https://inventory-system-77d91.web.app/"
+                    class="btn primary-btn"
+                    target="_blank"
+                  >
+                    Live Demo
+                  </a>
+                  <a href="/single/2" class="btn highlighted-btn">
+                    Details
+                  </a>
+                </div>
               </div>
             </div>
           </div>
@@ -111,16 +123,22 @@ const Project = () => {
                     <li>Firebase</li>
                   </ul>
                 </p>
-                <a
-                  href="https://desi-dhaba-12e5d.web.app/"
-                  class="btn primary-btn"
-                  target="_blank"
+                <div
+                  data-aos="zoom-in"
+                  data-aos-duration="1000"
+                  data-aos-delay="800"
                 >
-                  Live Demo
-                </a>
-                <a href="/single/3" class="btn highlighted-btn">
-                  Details
-                </a>
+                  <a
+                    href="https://desi-dhaba-12e5d.web.app/"
+                    class="btn primary-btn"
+                    target="_blank"
+                  >
+                    Live Demo
+                  </a>
+                  <a href="/single/3" class="btn highlighted-btn">
+                    Details
+                  </a>
+                </div>
               </div>
             </div>
           </div>
@@ -147,16 +165,22 @@ const Project = () => {
                     <li>Re-Charts</li>
                   </ul>
                 </p>
-                <a
-                  href="https://babycare-assignment8.netlify.app/"
-                  class="btn primary-btn"
-                  target="_blank"
+                <div
+                  data-aos="zoom-in"
+                  data-aos-duration="1000"
+                  data-aos-delay="800"
                 >
-                  Live Demo
-                </a>
-                <a href="/single/4" class="btn highlighted-btn">
-                  Details
-                </a>
+                  <a
+                    href="https://babycare-assignment8.netlify.app/"
+                    class="btn primary-btn"
+                    target="_blank"
+                  >
+                    Live Demo
+                  </a>
+                  <a href="/single/4" class="btn highlighted-btn">
+                    Details
+                  </a>
+                </div>
               </div>
             </div>
           </div>

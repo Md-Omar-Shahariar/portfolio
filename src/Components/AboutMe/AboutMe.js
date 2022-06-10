@@ -42,7 +42,11 @@ const AboutMe = () => {
                 <li>Building REST API</li>
                 <li>Managing Database</li>
               </ul>{" "}
-              <div>
+              <div
+                data-aos="zoom-in"
+                data-aos-duration="1000"
+                data-aos-delay="800"
+              >
                 <a href="#contactMe">
                   <button className="btn primary-btn">Hire Me</button>
                 </a>

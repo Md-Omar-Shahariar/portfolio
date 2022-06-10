@@ -65,7 +65,12 @@ const ContactMe = () => {
                 ></textarea>
               </div>
             </div>
-            <div class="form-group mx-auto">
+            <div
+              class="form-group mx-auto "
+              data-aos="zoom-in"
+              data-aos-duration="1000"
+              data-aos-delay="800"
+            >
               <input
                 type="submit"
                 class="btn primary-btn"
