@@ -6,7 +6,12 @@ import Project from "../Projects/Project";
 
 const Home = () => {
   return (
-    <div className="home-container" id="home">
+    <div
+      className="home-container"
+      id="home"
+      data-aos="fade-up"
+      data-aos-duration="1000"
+    >
       <Profile></Profile>
       <HomeFooter></HomeFooter>
     </div>

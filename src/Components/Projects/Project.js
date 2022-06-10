@@ -16,7 +16,12 @@ const Project = () => {
 
       <div className="mt-5 ">
         <div className="row ">
-          <div className="col-lg-4 col-md-6 mb-3">
+          <div
+            className="col-lg-4 col-md-6 mb-3"
+            data-aos="zoom-in"
+            data-aos-duration="1000"
+            data-aos-delay="500"
+          >
             <div class="card  shadow">
               <img
                 class="card-img-top w-100"
@@ -47,7 +52,12 @@ const Project = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-4 col-md-6 mb-3">
+          <div
+            className="col-lg-4 col-md-6 mb-3"
+            data-aos="zoom-in"
+            data-aos-duration="1000"
+            data-aos-delay="500"
+          >
             <div class="card   shadow">
               <img
                 class="card-img-top w-100"
@@ -78,7 +88,12 @@ const Project = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-4 col-md-6 mb-3">
+          <div
+            className="col-lg-4 col-md-6 mb-3"
+            data-aos="zoom-in"
+            data-aos-duration="1000"
+            data-aos-delay="500"
+          >
             <div class="card   shadow">
               <img
                 class="card-img-top w-100"
@@ -109,7 +124,12 @@ const Project = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-4 col-md-6 mb-3">
+          <div
+            className="col-lg-4 col-md-6 mb-3"
+            data-aos="zoom-in"
+            data-aos-duration="1000"
+            data-aos-delay="500"
+          >
             <div class="card   shadow">
               <img
                 class="card-img-top w-100"

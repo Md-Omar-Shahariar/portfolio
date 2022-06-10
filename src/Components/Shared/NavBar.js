@@ -14,7 +14,7 @@ const NavBar = () => {
       className="sticky-top"
     >
       <Container className="">
-        <Navbar.Brand href="/#home" className="aboutme">
+        <Navbar.Brand href="/" className="aboutme">
           Portfolio
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />

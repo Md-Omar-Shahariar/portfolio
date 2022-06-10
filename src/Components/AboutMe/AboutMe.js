@@ -11,7 +11,12 @@ const AboutMe = () => {
         <div className="mi"></div>
         <div className="mr"></div>
       </div>
-      <div class="card mt-5 shadow-lg">
+      <div
+        class="card mt-5 shadow-lg"
+        data-aos="flip-up"
+        data-aos-delay="500"
+        data-aos-duration="1000"
+      >
         <div class="row no-gutters">
           <div class="col-md-5">
             <img

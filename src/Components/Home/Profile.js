@@ -4,9 +4,18 @@ import Typical from "react-typical";
 
 const Profile = () => {
   return (
-    <div className="profile-container">
+    <div
+      className="profile-container"
+      data-aos="fade-up"
+      data-aos-duration="1000"
+    >
       <div className="profile-parent ">
-        <div className="profile-details">
+        <div
+          className="profile-details"
+          data-aos="fade-right"
+          data-aos-duration="1000"
+          data-aos-delay="500"
+        >
           <div className="cols">
             <div className="cols-icon">
               <a
@@ -65,7 +74,12 @@ const Profile = () => {
             </a>
           </div>
         </div>
-        <div className="profile-picture">
+        <div
+          className="profile-picture"
+          data-aos="fade-left"
+          data-aos-duration="1000"
+          data-aos-delay="500"
+        >
           <div className="profile-picture-background"></div>
         </div>
       </div>

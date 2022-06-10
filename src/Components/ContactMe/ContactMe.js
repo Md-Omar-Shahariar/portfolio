@@ -10,7 +10,12 @@ const ContactMe = () => {
         <div className="mi"></div>
         <div className="mr"></div>
       </div>
-      <div class="container contact-form border rounded">
+      <div
+        class="container contact-form border rounded"
+        data-aos="flip-left"
+        data-aos-easing="ease-out-cubic"
+        data-aos-duration="2000"
+      >
         <div class="contact-image">
           <img
             src="https://image.ibb.co/kUagtU/rocket_contact.png"
