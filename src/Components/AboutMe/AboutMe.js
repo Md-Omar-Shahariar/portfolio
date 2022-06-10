@@ -4,7 +4,7 @@ import profile from "../../assets/Home/profile.jpg";
 
 const AboutMe = () => {
   return (
-    <div id="AboutMe" className=" min-vh-100 container pt-5">
+    <div id="AboutMe" className=" container pt-5">
       <h1 className=" text-center aboutme ">About Me</h1>
       <div className="d-flex justify-content-center align-items-center">
         <div className="ml"></div>
@@ -14,7 +14,11 @@ const AboutMe = () => {
       <div class="card mt-5 shadow-lg">
         <div class="row no-gutters">
           <div class="col-md-5">
-            <img class="card-img h-100 " src={profile} alt=" Card img" />
+            <img
+              class="card-img rounded-0 h-100 "
+              src={profile}
+              alt=" Card img"
+            />
           </div>
           <div class="col-md-7">
             <div class="card-body h-100 d-flex flex-column  justify-content-between">
@@ -34,7 +38,9 @@ const AboutMe = () => {
                 <li>Managing Database</li>
               </ul>{" "}
               <div>
-                <button className="btn primary-btn">Hire Me</button>
+                <a href="#contactMe">
+                  <button className="btn primary-btn">Hire Me</button>
+                </a>
                 <a href="resume.pdf" download="Md. Omar Shahariar Resume.pdf">
                   <button className="btn highlighted-btn">Get Resume</button>
                 </a>

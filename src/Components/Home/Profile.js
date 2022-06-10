@@ -40,13 +40,13 @@ const Profile = () => {
                 <Typical
                   loop={Infinity}
                   steps={[
-                    "MERN STACK DEVELOPER 😎",
-                    1000,
-                    "Full Stack Developer 😁",
-                    1000,
+                    "MERN STACK DEVELOPER",
+                    2000,
+                    "Full Stack Developer",
+                    2000,
 
-                    "React Dev 😃",
-                    1000,
+                    "React Dev",
+                    2000,
                   ]}
                 ></Typical>
               </h1>
@@ -57,7 +57,9 @@ const Profile = () => {
             </span>
           </div>
           <div className="profile-options">
-            <button className="btn primary-btn">Hire Me</button>
+            <a href="#contactMe">
+              <button className="btn primary-btn">Hire Me</button>
+            </a>
             <a href="resume.pdf" download="Md. Omar Shahariar Resume.pdf">
               <button className="btn highlighted-btn">Get Resume</button>
             </a>
